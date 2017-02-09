@@ -1,0 +1,13 @@
+{
+  "name": "docker-101-json-api",
+  "version": "1.0.0",
+  "description": "Sample Node JSON API server app.",
+  "scripts": {
+    "start": "static . --host-address \"0.0.0.0\" --port 8888"
+  },
+  "author": "marc.denning@gmail.com",
+  "license": "MIT",
+  "dependencies": {
+    "node-static": "^0.7.9"
+  }
+}
